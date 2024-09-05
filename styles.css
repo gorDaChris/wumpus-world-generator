@@ -1,0 +1,29 @@
+body {
+  background: black;
+  font-family: "Open Sans", sans-serif;
+  color: white;
+}
+
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 10vh;
+}
+
+.title {
+  font-size: 5vw;
+  padding-right: 5vw;
+}
+
+.cave {
+  width: 30vw;
+}
+
+#canvas {
+  background: white;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
